@@ -28,7 +28,7 @@
 
 **Thoughts:** 
 
-* I am feeling excited and optimistic to do this challenge. I think that engaging with the online community (Twitter & Discord), and writing blog posts (Medium) will help keep me accountable. Initially, I was going to solely do the codecademy FED/FSE program, so I am grateful to have found this challenge before the end of the day. 
+* I am feeling excited and optimistic to do this challenge. I think that engaging with the online community (Twitter & Discord), and writing blog posts (Medium) will help keep me accountable. Initially, I was going to solely do the codecademy FED/FSE program, so I am grateful to have found this community before the end of the day. 
 
 **Key Takeaways:** 
 * HTML is the anatomy; CSS is the style; Javascript is the physiology 
