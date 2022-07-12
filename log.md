@@ -22,8 +22,8 @@
 
 **Today's Progress**: 
 
-* Research and preparation! Learning Resources: codecademy + freecodecamp 
-* Setup Twitter
+* Research and preparation!
+* Setup Twitter, Codecademy, and FreeCodeCamp
 * This challenge will help develop the habit of coding every day. Repetition and consistency is key. 
 
 **Thoughts:** 
