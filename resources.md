@@ -1,7 +1,7 @@
 # Recommended resources
 
 ## Helpful Articles
-1. TBD
+1. [Brittany Walker's Medium Blog](https://medium.com/@brittanyrw)
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
