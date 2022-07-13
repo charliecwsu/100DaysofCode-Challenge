@@ -23,7 +23,7 @@
 **Today's Progress**: 
 * Medium blog + Medium Introduction Draft
 * Start codecademy Introduction to HTML: HTML Elements 
-* Start freecodecamp: Responsive Web Design project – Submitted a <h1> header for the CatPhotoApp 
+* Start freecodecamp: Responsive Web Design project – Submitted a header for the CatPhotoApp (5 minutes..)
 
 **Thoughts:**
 * I'll be out of town for four days, so I started to feel discouraged for beginning a challenge and not following through. I became more motivated once I decided to properly prep for this challenge by creating this Github repo. Enjoy the process.  
