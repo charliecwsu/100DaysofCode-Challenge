@@ -1,24 +1,46 @@
-### Day 1: July 12, 2022
+### Day 3: July 12, 2022
 
 **Today's Progress**: 
-* Setup: Github + 100DaysofCode Challenge, Medium blog + Medium Introduction Draft
-* 
+* Setup Medium blog + Medium Introduction Draft
+* Start codecademy Introduction to HTML: 
+* freecodecamp: Responsive Web Design project CatPhotoApp – 
 
 **Thoughts:**
 * 
 
 **Key Takeaways:** 
-*
+* 
 
 **Gaps:** 
-*
+* 
 
 **Link to work:** 
-* [Day 1: #100DaysofCode Tweet](https://twitter.com/Chashutech/status/1546655807382556672) - Day 0 
-* [Day 1: #100DaysofCode Tweet]
-* [Day 1: #100DaysofCode Introduction Blog Post]
+* [Day 3: #100DaysofCode Tweet]()
+* [Day --: #100DaysofCode Introduction Blog Post]
 
-### Day 0: July 11, 2022
+### Day 2: July 12, 2022
+
+**Today's Progress**: 
+* Medium blog + Medium Introduction Draft
+* Start codecademy Introduction to HTML: HTML Elements 
+* Start freecodecamp: Responsive Web Design project – Submitted a <h1> header for the CatPhotoApp 
+
+**Thoughts:**
+* I'll be out of town for four days, so I started to feel discouraged for beginning a challenge and not following through. I became more motivated once I decided to properly prep for this challenge by creating this Github repo. Enjoy the process.  
+
+**Key Takeaways:** 
+* HTML: hypertext (links text to hyperlinks) markup language (markers on text to form structure of code 
+* Syntax of HTML Elements 
+
+**Gaps:** 
+* Practice time: Allocate more time to practice coding with freecodecamp's HTML project 
+* Next: Outline the CatPhotoApp project, so I take the initiative in this project vs. just following directions 
+
+**Link to work:** 
+* [Day 1: #100DaysofCode Tweet](https://twitter.com/Chashutech/status/1546655807382556672) - "Day 0"  
+* [Day 2: #100DaysofCode Tweet]()
+
+### Day 1: July 11, 2022
 
 **Today's Progress**: 
 
