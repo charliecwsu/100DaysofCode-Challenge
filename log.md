@@ -1,4 +1,4 @@
-### Day 3: July 12, 2022
+### Day 3: July 13, 2022
 
 **Today's Progress**: 
 * Setup Medium blog + Medium Introduction Draft
@@ -38,7 +38,7 @@
 
 **Link to work:** 
 * [Day 1: #100DaysofCode Tweet](https://twitter.com/Chashutech/status/1546655807382556672) - "Day 0"  
-* [Day 2: #100DaysofCode Tweet]()
+* [Day 2: #100DaysofCode Tweet](https://twitter.com/Chashutech/status/1547118602704130048)
 
 ### Day 1: July 11, 2022
 
