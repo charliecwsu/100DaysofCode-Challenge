@@ -1,8 +1,8 @@
-### Day 3: July 13, 2022
+### Day 9: July 19, 2022
 
 **Today's Progress**: 
 * Setup Medium blog + Medium Introduction Draft
-* Start codecademy Introduction to HTML: 
+* Codecademy Introduction to HTML: 
 * freecodecamp: Responsive Web Design project CatPhotoApp – 
 
 **Thoughts:**
@@ -15,8 +15,25 @@
 * 
 
 **Link to work:** 
-* [Day 3: #100DaysofCode Tweet]()
+* [Day 9: #100DaysofCode Tweet]
 * [Day --: #100DaysofCode Introduction Blog Post]
+
+### Day 3-8: July 13, 2022 to July 18, 2022
+
+**Today's Progress**: 
+*
+
+**Thoughts:**
+* Camping this weekend, so I have some e-book samples prepared. I'll start with Computational Thinking. TBD update once I return to civilization.
+
+**Key Takeaways:** 
+* 
+
+**Gaps:** 
+* 
+
+**Link to work:** 
+* [Day 3-8: #100DaysofCode Tweet](https://twitter.com/Chashutech/status/1547482724952264704)
 
 ### Day 2: July 12, 2022
 
