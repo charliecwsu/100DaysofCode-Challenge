@@ -1,9 +1,10 @@
-### Day 9: July 19, 2022
+### Day 2: July 30, 2022
 
 **Today's Progress**: 
 * Setup Medium blog + Medium Introduction Draft
 * Codecademy Introduction to HTML: 
 * freecodecamp: Responsive Web Design project CatPhotoApp – 
+* #100Devs:
 
 **Thoughts:**
 * 
@@ -15,22 +16,44 @@
 * 
 
 **Link to work:** 
-* [Day 9: #100DaysofCode Tweet]
-* [Day --: #100DaysofCode Introduction Blog Post]
+* [Day 2: #100DaysofCode Tweet]
+* [Day 2: #100DaysofCode Introduction Blog Post]
+
+### Day 1: July 29, 2022
+
+**Today's Progress**: 
+* Completed @leonnoel's Class01 & Class02 Youtube Videos (28/07/2022-29/07/2022)
+* Completed Coursera's Learning How to Learn by Barbara Oakley & Dr. Terrence Sejnowski (27/07/2022-29/07/2022)
+
+**Thoughts:**
+* Feeling open-minded and confident
+
+**Key Takeaways:** 
+* Community: what value can I add? In us we trust.
+* Learning how to learn: Focused v. Diffused Thinking, Active Recall, SIR, Chunking & Interweaving, and Procrastination & Memory
+* Process > Product
+
+**Gaps:** 
+* Prioritize learning efficiency and encoding
+
+**Link to work:** 
+* [Day 1: #100DaysofCode Tweet](https://twitter.com/Chashutech/status/1553171274762838016)
+
+### CODE BLUE: RESET CHALLENGE
 
 ### Day 3-8: July 13, 2022 to July 18, 2022
 
 **Today's Progress**: 
-*
+* Phone, portable chargers, and car died. One with Nature~
 
 **Thoughts:**
 * Camping this weekend, so I have some e-book samples prepared. I'll start with Computational Thinking. TBD update once I return to civilization.
 
 **Key Takeaways:** 
-* 
+* Algorithms apply to anything and everything in life
 
 **Gaps:** 
-* 
+* != Internet connection nor tech conversations
 
 **Link to work:** 
 * [Day 3-8: #100DaysofCode Tweet](https://twitter.com/Chashutech/status/1547482724952264704)
