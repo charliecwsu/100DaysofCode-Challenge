@@ -1,7 +1,7 @@
 ### Day 5: August 2, 2022
 
 **Today's Progress**: 
-* Medium: 
+* Medium: Publish Blog Introduction
 * freecodecamp: Responsive Web Design - Learn Basic CSS by Building a Cafe Menu project
 * #100Devs: Read learn.shayhowe/html-css : Lesson 
 
@@ -16,12 +16,11 @@
 
 **Link to work:** 
 * [Day 5: #100DaysofCode Tweet]
-* [Day 9: #100DaysofCode Week 1 Recap Blog Post]
+* [Day 5: #100DaysofCode Introduction Blog Post](https://medium.com/@charlie.cw.su/2022-programming-journey-100daysofcode-100devs-86da62b45a34)
 
 ### Day 4: August 1, 2022
 
 **Today's Progress**: 
-* Publish Medium Blog Introduction
 * freecodecamp: Responsive Web Design - Learn HTML by Building a CatPhotoApp project
 * #100Devs: Read learn.shayhowe/html-css : Lesson 1 Building Your First Web Page
 * Anki: Create first deck of flashcards
@@ -41,7 +40,6 @@
 
 **Link to work:** 
 * [Day 4: #100DaysofCode Tweet](https://twitter.com/Chashutech/status/1554356439094665216)
-* [Day 4: #100DaysofCode Introduction Blog Post]
 
 ### Day 2 & 3: July 30, 2022 to July 31, 2022
 
