@@ -40,7 +40,7 @@
 * Visualizing and autonomously creating a web page/applying these concepts: when to apply which HTML elements and how to neatly apply CSS selectors
 
 **Link to work:** 
-* [Day 4: #100DaysofCode Tweet]
+* [Day 4: #100DaysofCode Tweet](https://twitter.com/Chashutech/status/1554356439094665216)
 * [Day 4: #100DaysofCode Introduction Blog Post]
 
 ### Day 2 & 3: July 30, 2022 to July 31, 2022
@@ -64,7 +64,7 @@
 * Active Recall practices and reflection - schedule weekly?
 
 **Link to work:** 
-* [Day 2-3: #100DaysofCode Tweet]
+* [Day 2-3: #100DaysofCode Tweet](https://twitter.com/Chashutech/status/1554355642579595264)
 
 ### Day 1: July 29, 2022
 
