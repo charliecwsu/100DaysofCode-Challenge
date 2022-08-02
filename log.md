@@ -1,10 +1,9 @@
-### Day 2: July 30, 2022
+### Day 5: August 2, 2022
 
 **Today's Progress**: 
-* Setup Medium blog + Medium Introduction Draft
-* Codecademy Introduction to HTML: 
-* freecodecamp: Responsive Web Design project CatPhotoApp – 
-* #100Devs:
+* Medium: 
+* freecodecamp: Responsive Web Design - Learn Basic CSS by Building a Cafe Menu project
+* #100Devs: Read learn.shayhowe/html-css : Lesson 
 
 **Thoughts:**
 * 
@@ -16,8 +15,56 @@
 * 
 
 **Link to work:** 
-* [Day 2: #100DaysofCode Tweet]
-* [Day 2: #100DaysofCode Introduction Blog Post]
+* [Day 5: #100DaysofCode Tweet]
+* [Day 9: #100DaysofCode Week 1 Recap Blog Post]
+
+### Day 4: August 1, 2022
+
+**Today's Progress**: 
+* Publish Medium Blog Introduction
+* freecodecamp: Responsive Web Design - Learn HTML by Building a CatPhotoApp project
+* #100Devs: Read learn.shayhowe/html-css : Lesson 1 Building Your First Web Page
+* Anki: Create first deck of flashcards
+
+**Thoughts:**
+* Embracing the doses of frustration and confusion that comes with problem-solving.
+* Feeling determined and energized for completing my first (guided) project with freecodecamp. 
+
+**Key Takeaways:** 
+* The importance of having accessibility into consideration when writing code
+* Know how to Google & research
+
+**Gaps:** 
+* Chunking and Interleaving what I've learned - I want to be able to apply this information in diverse contexts
+* Encoding HTML & CSS into my long-term memory
+* Visualizing and autonomously creating a web page/applying these concepts: when to apply which HTML elements and how to neatly apply CSS selectors
+
+**Link to work:** 
+* [Day 4: #100DaysofCode Tweet]
+* [Day 4: #100DaysofCode Introduction Blog Post]
+
+### Day 2 & 3: July 30, 2022 to July 31, 2022
+
+**Today's Progress**: 
+* Read "Algorithms to Live By: The Computer Science of Human Decisions" by Brian Christian and Tom Griffiths
+* Write Medium Introduction Draft
+
+**Thoughts:**
+* Feeling restless, yet doing my best prioritizing an "away from the computer" weekend. 
+* Mimo mobile app is a solid addition to my daily dose of code. Currently on a streak!
+
+**Key Takeaways:** 
+* Optimal Stopping problem = 37%
+* According to economists, valuing the present > future = "discounting
+* Dynamic Allocation Index via Gittin's Deal or No Deal = always play the arm with the highest index
+* With full-information, work backwards
+
+**Gaps:** 
+* Energy Management 
+* Active Recall practices and reflection - schedule weekly?
+
+**Link to work:** 
+* [Day 2-3: #100DaysofCode Tweet]
 
 ### Day 1: July 29, 2022
 
