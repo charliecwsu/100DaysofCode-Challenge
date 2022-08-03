@@ -24,7 +24,7 @@
 * Medium: Publish Blog Introduction
 * freecodecamp: Responsive Web Design - Learn Basic CSS by Building a Cafe Menu project
 * #100Devs: Read learn.shayhowe/html-css : Lesson 2 Getting to Know HTML & Lesson 3 Getting to Know CSS 
-* Watched part of @leonnoel Class 03
+* Watched the review part of @leonnoel Class 03
 
 **Thoughts:**
 * First blog post!!! Exciting:)
