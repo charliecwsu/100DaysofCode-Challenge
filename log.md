@@ -29,6 +29,7 @@
 **Thoughts:**
 * First blog post!!! Exciting:)
 * Connected with someone in the Discord community - I am feeling supported and motivated to build a solid foundation where my passion projects will not require refactoring because of basic concepts
+* Seems straightforward, but am I falling into the illusions of learning/knowledge??
 
 **Key Takeaways:** 
 * The power of leveraging community and accountability 
