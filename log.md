@@ -3,19 +3,22 @@
 **Today's Progress**: 
 * Medium: Publish Blog Introduction
 * freecodecamp: Responsive Web Design - Learn Basic CSS by Building a Cafe Menu project
-* #100Devs: Read learn.shayhowe/html-css : Lesson 
+* #100Devs: Read learn.shayhowe/html-css : Lesson 2 Getting to Know HTML & Lesson 3 Getting to Know CSS 
+* Watched part of @leonnoel Class 03
 
 **Thoughts:**
-* 
+* First blog post!!! Exciting:)
+* Connected with someone in the Discord community - I am feeling supported and motivated to build a solid foundation where my passion projects will not require refactoring because of basic concepts
 
 **Key Takeaways:** 
-* 
+* The power of leveraging community and accountability 
 
 **Gaps:** 
-* 
+* Focus & Concentration + Procrastination prior to technical reading = apply scripted actions, BEDS-M, and environmental optimization
+* Applying the HTML & CSS concepts = practice practice practice
 
 **Link to work:** 
-* [Day 5: #100DaysofCode Tweet]
+* [Day 5: #100DaysofCode Tweet](https://twitter.com/Chashutech/status/1554718548517216262)
 * [Day 5: #100DaysofCode Introduction Blog Post](https://medium.com/@charlie.cw.su/2022-programming-journey-100daysofcode-100devs-86da62b45a34)
 
 ### Day 4: August 1, 2022
