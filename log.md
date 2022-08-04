@@ -1,14 +1,33 @@
+### Day 7: August 4, 2022
+
+**Today's Progress**: 
+* freecodecamp: Responsive Web Design - Learn Basic CSS by Building a Cafe Menu project
+* #100Devs: Read learn.shayhowe/html-css 
+* #100Devs: Start Labs
+
+**Thoughts:**
+*
+
+**Key Takeaways:** 
+* 
+
+**Gaps:** 
+* 
+
+**Link to work:** 
+* [Day 7: #100DaysofCode Tweet]
+
 ### Day 6: August 3, 2022
 
 **Today's Progress**: 
 * freecodecamp: Responsive Web Design - Learn Basic CSS by Building a Cafe Menu project
-* #100Devs: Read learn.shayhowe/html-css : Lesson
-* #100Devs: Start Labs
-* Watched @leonnoel Class 03
-* Typing test
+* #100Devs: Read learn.shayhowe/html-css
+* Typing test + practice
+* Add and review Anki
 
 **Thoughts:**
-* 
+*
+
 **Key Takeaways:** 
 * 
 
