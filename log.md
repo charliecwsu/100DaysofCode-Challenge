@@ -26,16 +26,19 @@
 * Add and review Anki
 
 **Thoughts:**
-*
+* Prestudying the material helps with comprehension and time
+* Convert notetaking either to sample code or mindmaps?
 
 **Key Takeaways:** 
-* 
+* Compounds of prestudy and reflection
+* Notetaking to visual and spatial images 
 
 **Gaps:** 
-* 
+* Notetaking / Encoding
+* Understanding of CSS concepts
 
 **Link to work:** 
-* [Day 6: #100DaysofCode Tweet]
+* [Day 6: #100DaysofCode Tweet](https://twitter.com/Chashutech/status/1555080124663402496)
 
 ### Day 5: August 2, 2022
 
