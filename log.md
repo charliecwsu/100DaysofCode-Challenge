@@ -28,6 +28,7 @@
 **Thoughts:**
 * Un poco. 
 * Brainstorming first personal project
+* Reading technical text for new information does not seem like the most effective way for me to absorb this information. Although shayhowe is prestudy to @leon's class, I'm considering skimming the material/ID key concepts, creating Anki flashcards based on the lesson objectives, moving forward with @leon's class, then reviewing back to shayhowe as desired. 
 
 **Key Takeaways:** 
 * Focus on marginal gains - 1%
