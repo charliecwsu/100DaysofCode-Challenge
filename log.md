@@ -27,6 +27,7 @@
 
 **Thoughts:**
 * Un poco. 
+* Brainstorming first personal project
 
 **Key Takeaways:** 
 * Focus on marginal gains - 1%
