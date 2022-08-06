@@ -1,10 +1,10 @@
-### Day 8: August 5, 2022
+### Day 9: August 6, 2022
 
 **Today's Progress**: 
 * freecodecamp: Responsive Web Design - Learn Basic CSS by Building a Cafe Menu project
 * #100Devs: Read learn.shayhowe/html-css 
+* Post Medium blog Week 1 Recap
 * #100Devs: Start Labs
-* Medium blog Week 1 Recap
 
 **Thoughts:**
 *
@@ -16,7 +16,28 @@
 * 
 
 **Link to work:** 
-* [Day 8: #100DaysofCode Tweet]
+* [Day 9: #100DaysofCode Tweet]
+
+### Day 8: August 5, 2022
+
+**Today's Progress**: 
+* freecodecamp: Responsive Web Design - Learn Basic CSS by Building a Cafe Menu project
+* #100Devs: Read learn.shayhowe/html-css 
+* Medium blog Week 1 Recap Draft
+* Touch Typing
+* Anki - Box Model
+
+**Thoughts:**
+*
+
+**Key Takeaways:** 
+* 
+
+**Gaps:** 
+* 
+
+**Link to work:** 
+* [Day 8: #100DaysofCode Tweet](https://twitter.com/Chashutech/status/1555761683468935171)
 
 ### Day 7: August 4, 2022
 
